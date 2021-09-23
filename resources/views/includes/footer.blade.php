@@ -1,6 +1,12 @@
 
 <footer>
-	© {{ __('misc.copyright') }}
+  <div class="footer-elements">
+    © {{ __('misc.copyright') }}
+    <a href="url">over ons</a>
+    <a href="url">twitter</a>
+    <a href="url">instagram</a>
+    <a href="url">facebook</a>
+  </div>
 </footer>
 
 
