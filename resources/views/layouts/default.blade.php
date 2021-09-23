@@ -17,7 +17,7 @@
 
             <ul class="breadcrumb">
                 <li><a href="/" title="{{ __('misc.home_alt') }}"
-                       alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a></li>
+                        alt="{{ __('misc.home_alt') }}">{{ __('misc.home') }}</a></li>
                 @yield('breadcrumb')
             </ul>
 
