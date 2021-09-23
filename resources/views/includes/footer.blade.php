@@ -6,6 +6,7 @@
     <a href="url">twitter</a>
     <a href="url">instagram</a>
     <a href="url">facebook</a>
+    <a href="url">snapchat</a>
   </div>
 </footer>
 
