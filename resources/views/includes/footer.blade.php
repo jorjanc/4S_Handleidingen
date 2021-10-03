@@ -1,6 +1,6 @@
 
 <footer>
-  <div class="container">
+  <div class="footer-alignment">
     © {{ __('misc.copyright') }}
     <a href="url">over ons</a>
     <a href="url">twitter</a>
