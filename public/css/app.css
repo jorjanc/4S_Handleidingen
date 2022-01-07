@@ -10138,7 +10138,10 @@ a.text-dark:focus {
 }
 
 .footer-alignment {
+    padding: 10px;
     text-align: center;
+    background-color: #343a40;
+    color: white;
 }
 
 .navbar-brand {
