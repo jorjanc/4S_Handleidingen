@@ -622,6 +622,7 @@ pre code {
 
 .row {
     display: flex;
+    flex-direction: column;
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
@@ -10137,20 +10138,17 @@ a.text-dark:focus {
 }
 
 .footer-alignment {
-    padding: 0;
-    list-style: none;
     text-align: center;
-    font-size: 18px;
-    line-height: 1.6;
-    margin-bottom: 0;
 }
 
-footer {}
-
 .navbar-brand {
-    padding: 22px;
+    padding: 18px;
     margin: 10px;
     color: #2176bd;
     background-color: #2176bd;
     border-radius: 22px;
+}
+
+.col-md-8 {
+    margin: 0 auto;
 }
