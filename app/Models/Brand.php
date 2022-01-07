@@ -14,12 +14,12 @@ class Brand extends Model
         return $this->hasMany(Type::class);
     }
 
-    /*
+
     public function members()
     {
         return $this->hasManyThrough(Member::class, Group::class);
     }
-    */
+
 
     // Returns name of the object, where / are stripped for the url
     public function getNameUrlEncodedAttribute()
