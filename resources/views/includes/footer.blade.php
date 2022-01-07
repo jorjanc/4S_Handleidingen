@@ -1,9 +1,11 @@
 
 <footer>
-  <div class="footer-alignment">
-    © {{ __('misc.copyright') }}
-
-  </div>
+    <div class="footer-alignment">
+        © {{ __('misc.copyright') }}
+        <a>over ons</a>
+        <a>contact gegevens</a>
+        <a>social links</a>
+    </div>
 </footer>
 
 

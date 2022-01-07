@@ -10142,10 +10142,12 @@ a.text-dark:focus {
     text-align: center;
     background-color: #343a40;
     color: white;
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .navbar-brand {
-    padding: 18px;
+    padding: 14px;
     margin: 10px;
     color: #2176bd;
     background-color: #2176bd;
