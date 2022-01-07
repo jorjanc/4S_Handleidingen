@@ -94,7 +94,6 @@ h5,
 h6 {
     margin-top: 0;
     margin-bottom: 0.5rem;
-    font-size: 28px;
 }
 
 p {
@@ -623,7 +622,6 @@ pre code {
 
 .row {
     display: flex;
-    flex-direction: column;
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
@@ -10085,6 +10083,9 @@ a.text-dark:focus {
     .navbar {
         display: none;
     }
+    .navbar-brand {
+        padding: 22px;
+    }
     .badge {
         border: 1px solid #000;
     }
@@ -10138,23 +10139,25 @@ a.text-dark:focus {
     content: "/ ";
 }
 
-.footer-alignment {
-    padding: 10px;
+.footer-alignmnent {
     text-align: center;
-    background-color: #343a40;
-    color: white;
-    display: flex;
-    justify-content: space-evenly;
 }
 
 .navbar-brand {
-    padding: 14px;
-    margin: 10px;
-    color: #2176bd;
-    background-color: #2176bd;
+    padding: 18px;
+    color: #1b4b72;
+    background-color: #1b4b72;
     border-radius: 22px;
 }
 
+.jumbotron {
+    margin: 0 auto;
+}
+
 .col-md-8 {
+    margin: 0 auto;
+}
+
+.footer-alignmnent {
     margin: 0 auto;
 }
