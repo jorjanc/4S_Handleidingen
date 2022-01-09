@@ -18,7 +18,6 @@
             </script>
             <gcse:searchbox-only></gcse:searchbox-only>
 
-
         </div>
     </div>
 </nav>
